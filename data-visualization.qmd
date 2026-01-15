@@ -1,0 +1,35 @@
+---
+title: "Data Visualization"
+format: html
+---
+
+## Visualization Goals
+
+in this page, i'll talk about a data visualization project i created during my student life.
+
+the goal is to:
+
+* predict whether a person will earn more or less than $50K a year
+* construct visualizations using Decision Tree, Logistic Regression, and Random Forest for income prediction
+
+## What Is Visualized?
+
+<table>
+  <tr>
+    <th>Decision Tree</th>
+    <th>Logistic Regression</th>
+    <th>Random Forest</th>
+  </tr>
+  <tr>
+    <td>![](media/decision-tree.jpg)</td>
+    <td>![](media/logistic-regression.jpg)</td>
+    <td>![](media/random-forest.jpg)</td>
+  </tr>
+  </tr>
+</table>
+
+## Visualization Story
+
+based on the visualization, comparing the AUC (Area Under Curve) scores of all three models based on the ROC Curve, the Random Forest Model has the best AUC score of 0.919. hence, the AUC further proves that the Random Forest Model is a very strong model as the higher the AUC score, the better the model.
+
+---

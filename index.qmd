@@ -1,11 +1,15 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+## Welcome :heart_hands:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+hello! my name is **li xuan**, someone who loves capturing photos of the beautiful sky.
 
-```{r}
-1 + 1
-```
+here is a picture of the sky i took a few years ago! look at those fluffy :cloud: **clouds** :cloud:.
+
+![Fluffy Pink Sky](media/sky.jpg)
+
+---
+
+feel free to explore the pages to learn more about me! :hatching_chick:

@@ -1,0 +1,17 @@
+---
+title: "Multi-Currency Wallet"
+---
+
+## Project Overview
+
+before entering SIT, i designed and styled a **Multi-Currency Wallet** using HTML, CSS, JavaScript, and jQuery as part of a module project.
+
+## Prototype
+
+unfortunately, my scripts were lost when my laptop stopped powering on. however, I’m still able to share the prototype of my webpage!
+
+![](media/prototype-1.jpg)
+
+![Prototype](media/prototype-2.jpg)
+
+---

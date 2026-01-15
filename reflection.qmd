@@ -1,0 +1,16 @@
+---
+title: "Reflection On The Use Of GenAI"
+format: html
+---
+
+## GenAI Tool Used
+
+i used **ChatGPT** as the primary GenAI tool for this assessment. i chose it as i'm more familiar with ChatGPT over other GenAIs.
+
+---
+
+## How GenAI Helped Me
+
+ChatGPT helped me in solving my push error to Git as well as generating ideas for page organization and reflection content.
+
+---

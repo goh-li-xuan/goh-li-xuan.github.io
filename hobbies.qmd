@@ -1,0 +1,21 @@
+---
+title: "Hobbies"
+format: html
+---
+
+## My Hobbies
+
+### :space_invader: Gaming
+
+i enjoy playing story-rich games and fps games!
+take a look at one of my favorite game that i've been obsessed with.
+
+{{< video https://www.youtube.com/watch?v=8ARD4K45DGA >}}
+
+---
+
+### :book: Reading
+
+i have a deep love for dystopian novels, and one of my all-time favorite books is [Scythe](https://en.wikipedia.org/wiki/Scythe_(novel)) by Neal Shusterman.
+
+---

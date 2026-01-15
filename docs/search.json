@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "hello! my name is li xuan, someone who loves capturing photos of the beautiful sky.\nhere is a picture of the sky i took a few years ago! look at those fluffy ☁️ clouds ☁️.\n\n\n\nFluffy Pink Sky\n\n\n\nfeel free to explore the pages to learn more about me! 🐣"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,180 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "javafx.html",
+    "href": "javafx.html",
+    "title": "JavaFX Project",
+    "section": "",
+    "text": "i created a Staff Management Program using JavaFX with a pink background theme and made it bubbly looking while maintaining professionalism!\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "hello! my name is li xuan, someone who loves capturing photos of the beautiful sky.\nhere is a picture of the sky i took a few years ago! look at those fluffy ☁️ clouds ☁️.\n\n\n\nFluffy Pink Sky\n\n\n\nfeel free to explore the pages to learn more about me! 🐣"
+  },
+  {
+    "objectID": "index.html#welcome-u1faf6",
+    "href": "index.html#welcome-u1faf6",
+    "title": "Home",
+    "section": "",
+    "text": "hello! my name is li xuan, and my hobbies are gaming and reading! here’s a sneak peek into back when i actually played well in valorant…\n\n\nfeel free to explore the pages to learn more about me!"
+  },
+  {
+    "objectID": "index.html#welcome-u1faf6-heart",
+    "href": "index.html#welcome-u1faf6-heart",
+    "title": "Home",
+    "section": "",
+    "text": "hello! my name is li xuan, and my hobbies are gaming and reading! here’s a sneak peek into back when i actually played well in valorant…\n\n\nfeel free to explore the pages to learn more about me!"
+  },
+  {
+    "objectID": "index.html#welcome-heart",
+    "href": "index.html#welcome-heart",
+    "title": "Home",
+    "section": "",
+    "text": "hello! my name is li xuan, and my hobbies are gaming and reading! here’s a sneak peek into back when i actually played well in valorant…\n\n\nfeel free to explore the pages to learn more about me!"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Multi-Currency Wallet",
+    "section": "",
+    "text": "before entering SIT, i designed and styled a Multi-Currency Wallet using HTML, CSS, JavaScript, and jQuery as part of a module project."
+  },
+  {
+    "objectID": "project.html#project-overview",
+    "href": "project.html#project-overview",
+    "title": "Multi-Currency Wallet",
+    "section": "",
+    "text": "before entering SIT, i designed and styled a Multi-Currency Wallet using HTML, CSS, JavaScript, and jQuery as part of a module project."
+  },
+  {
+    "objectID": "project.html#problem-statement",
+    "href": "project.html#problem-statement",
+    "title": "JavaFX Project",
+    "section": "Problem Statement",
+    "text": "Problem Statement\nThe project aimed to address the following problem:\n\nWhat issue were you trying to solve?\nWhy was it important or relevant?\n\nThis problem was chosen because [brief justification]."
+  },
+  {
+    "objectID": "project.html#methodology",
+    "href": "project.html#methodology",
+    "title": "JavaFX Project",
+    "section": "Methodology",
+    "text": "Methodology\nThe project was completed using the following steps:\n\nData collection from [source]\nData cleaning and preprocessing\nAnalysis using [tools or methods]\nEvaluation of results"
+  },
+  {
+    "objectID": "project.html#tools-technologies",
+    "href": "project.html#tools-technologies",
+    "title": "JavaFX Project",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nProgramming Language: [Python / R / others]\nSoftware: [Excel, Tableau, Power BI, etc.]\nOther tools: [Any relevant tools]"
+  },
+  {
+    "objectID": "project.html#key-outcomes",
+    "href": "project.html#key-outcomes",
+    "title": "JavaFX Project",
+    "section": "Key Outcomes",
+    "text": "Key Outcomes\n\nAchieved [main outcome]\nImproved understanding of [skills or concepts learned]\nStrengthened my interest in data analytics and visualization\n\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html#reflection",
+    "href": "project.html#reflection",
+    "title": "JavaFX Project",
+    "section": "Reflection",
+    "text": "Reflection\nThis project prepared me for further studies by enhancing my problem-solving, analytical thinking, and independent learning skills.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "i enjoy playing story-rich games and fps games! take a look at one of my favorite game that i’ve been obsessed with.\n\n\n\n\n\ni have a deep love for dystopian novels, and one of my all-time favorite books is Scythe by Neal Shusterman."
+  },
+  {
+    "objectID": "hobbies.html#my-hobbies",
+    "href": "hobbies.html#my-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "i enjoy playing story-rich games and fps games! take a look at one of my favorite game that i’ve been obsessed with.\n\n\n\n\n\ni have a deep love for dystopian novels, and one of my all-time favorite books is Scythe by Neal Shusterman."
+  },
+  {
+    "objectID": "data-visualization.html",
+    "href": "data-visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "in this page, i’ll talk about a data visualization project i created during my student life.\nthe goal is to:\n\npredict whether a person will earn more or less than $50K a year\nconstruct visualizations using Decision Tree, Logistic Regression, and Random Forest for income prediction"
+  },
+  {
+    "objectID": "data-visualization.html#visualization-example",
+    "href": "data-visualization.html#visualization-example",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Below is a data visualization project I created during my student life.\n\n\n\nData Visualization Example"
+  },
+  {
+    "objectID": "data-visualization.html#what-is-visualized",
+    "href": "data-visualization.html#what-is-visualized",
+    "title": "Data Visualization",
+    "section": "What Is Visualized?",
+    "text": "What Is Visualized?\n\n\n\nDecision Tree\n\n\nLogistic Regression\n\n\nRandom Forest"
+  },
+  {
+    "objectID": "data-visualization.html#story-behind-the-visualization",
+    "href": "data-visualization.html#story-behind-the-visualization",
+    "title": "Data Visualization",
+    "section": "Story Behind the Visualization",
+    "text": "Story Behind the Visualization\nThis task was completed for [course name / project / personal interest].\nThe goal was to identify trends, patterns, or comparisons within the dataset.\nFor example: - The chart shows how [trend or insight] - A noticeable increase/decrease occurs at [point or period]"
+  },
+  {
+    "objectID": "data-visualization.html#rationale-for-visualization-choice",
+    "href": "data-visualization.html#rationale-for-visualization-choice",
+    "title": "Data Visualization",
+    "section": "Rationale for Visualization Choice",
+    "text": "Rationale for Visualization Choice\nI chose a [type of chart] because:\n\nIt clearly compares numerical values\nTrends can be easily identified\nThe audience can quickly understand the message\n\nThis visualization helped transform raw numerical data into meaningful insights that support decision-making."
+  },
+  {
+    "objectID": "project.html#prototype",
+    "href": "project.html#prototype",
+    "title": "Multi-Currency Wallet",
+    "section": "Prototype",
+    "text": "Prototype\nunfortunately, my scripts were lost when my laptop stopped powering on. however, I’m still able to share the prototype of my webpage!\n\n\n\n\nPrototype"
+  },
+  {
+    "objectID": "data-visualization.html#visualization-goals",
+    "href": "data-visualization.html#visualization-goals",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "in this page, i’ll talk about a data visualization project i created during my student life.\nthe goal is to:\n\npredict whether a person will earn more or less than $50K a year\nconstruct visualizations using Decision Tree, Logistic Regression, and Random Forest for income prediction"
+  },
+  {
+    "objectID": "data-visualization.html#visualization-story",
+    "href": "data-visualization.html#visualization-story",
+    "title": "Data Visualization",
+    "section": "Visualization Story",
+    "text": "Visualization Story\nbased on the visualization, comparing the AUC (Area Under Curve) scores of all three models based on the ROC Curve, the Random Forest Model has the best AUC score of 0.919. hence, the AUC further proves that the Random Forest Model is a very strong model as the higher the AUC score, the better the model."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection On The Use Of GenAI",
+    "section": "",
+    "text": "i used ChatGPT as the primary GenAI tool for this assessment. i chose it as i’m more familiar with ChatGPT over other GenAIs."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used",
+    "href": "reflection.html#genai-tool-used",
+    "title": "Reflection On The Use Of GenAI",
+    "section": "",
+    "text": "i used ChatGPT as the primary GenAI tool for this assessment. i chose it as i’m more familiar with ChatGPT over other GenAIs."
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-me",
+    "href": "reflection.html#how-genai-helped-me",
+    "title": "Reflection On The Use Of GenAI",
+    "section": "How GenAI Helped Me",
+    "text": "How GenAI Helped Me\nChatGPT helped me in solving my push error to Git as well as generating ideas for page organization and reflection content."
   }
 ]
